@@ -1,0 +1,6 @@
+.DS_Store
+build/
+*.xcuserstate
+Resources/AppIcon-v1.icns
+Resources/AppIcon-v2.icns
+Resources/AppIcon-v2.png

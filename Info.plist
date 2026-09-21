@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>阿念</string>
+	<key>CFBundleExecutable</key>
+	<string>阿念</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.anian.pet</string>
+	<key>CFBundleName</key>
+	<string>阿念</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>阿念需要完整访问日历事件，用于把今日日程同步到待办。</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>阿念需要读取今天的日历事件，并同步到待办列表。</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>阿念需要完整访问提醒事项，用于读取今日提醒，并把待办完成状态同步回提醒事项。</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>阿念需要访问提醒事项，用于同步今日待办及其完成状态。</string>
+</dict>
+</plist>
