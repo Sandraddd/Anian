@@ -13,7 +13,7 @@
 
 ## 下载与运行
 
-1. 下载 `release/阿念-1.0.0-macOS-arm64.zip`。
+1. 下载 `release/Anian-1.0.0-macOS-arm64.zip`。
 2. 解压后打开 `阿念.app`。
 3. 首次使用日历或提醒事项时，按 macOS 提示授权。
 
